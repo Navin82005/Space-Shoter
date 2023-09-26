@@ -17,12 +17,10 @@ try:
     # assigning values to height and width variable   
     height = 800
     width = 600  
-    # creating the display surface object   
-    # of specific dimension..e(X, Y).   
+    # creating the display surface object of specific dimension..i.e (X, Y).   
     display_surface = pygame.display.set_mode((height, width))  
     score = 0
     gamecolor = (0, 20, 255)
-
 
     # set the pygame window name   
     pygame.display.set_caption('Spacegame')
@@ -80,14 +78,12 @@ try:
     simstate = False
     eby = 0
     score5 = 0
-    #C:\Program Files (x86)\PandaGames\SpaceShooter\sounds
     
     speedpower = buffermodule.speeder()
     shieldpower = buffermodule.shielder()
     
 
     enemy1state = False
-
 
 
     def lifepowerup():
@@ -538,6 +534,6 @@ try:
         pygame.display.update()
         clk.tick(60)
 
-except Exception as e:
-    messagebox.showerror(message=e)
+except Exception as error:
+    messagebox.showerror(message=error)
     
