@@ -30,17 +30,16 @@ Welcome to the **Space Shooter Game**! This is a classic arcade-style game where
 
 ## 🖼️ Screenshots
 
-![Gameplay Screenshot 1](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/fire-arm.jpg)
-![Gameplay Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/enemy-fire.jpg)
-![Gameplay Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/dule-space-craft-attack.jpg)
+| Gameplay | Buffer Power-ups | Game End |
+|----------|------------------|----------|
+| ![Gameplay Screenshot 1](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/fire-arm.jpg) | ![Buffer Screenshot 1](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-life.jpg) | ![Game End Screenshot](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/game-end.jpg) |
+| ![Gameplay Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/enemy-fire.jpg) | ![Buffer Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-shield.jpg) | |
+| ![Gameplay Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/dule-space-craft-attack.jpg) | ![Buffer Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-speed.jpg) | |
+
 *Gameplay in action*
 
-![Buffer Screenshot 1](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-life.jpg)
-![Buffer Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-shield.jpg)
-![Buffer Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-speed.jpg)
 *Collecting power-ups*
 
-![Game End 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/game-end.jpg)
 *Game End*
 
 ## 📜 License
