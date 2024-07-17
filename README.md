@@ -28,6 +28,8 @@ Welcome to the **Space Shooter Game**! This is a classic arcade-style game where
 - **Shooting:** Press the spacebar to shoot bullets.
 - **Power-ups:** Collect power-ups to gain special abilities or extra lives.
 
+
+
 ## 🖼️ Screenshots
 
 | Gameplay | Buffer Power-ups | Game End |
@@ -36,6 +38,8 @@ Welcome to the **Space Shooter Game**! This is a classic arcade-style game where
 | ![Gameplay Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/enemy-fire.jpg) | ![Buffer Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-shield.jpg) | |
 | ![Gameplay Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/dule-space-craft-attack.jpg) | ![Buffer Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-speed.jpg) | |
 | *Gameplay in action* | *Collecting power-ups* | *Game Over* |
+
+
 
 ## 📜 License
 
