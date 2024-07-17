@@ -30,11 +30,18 @@ Welcome to the **Space Shooter Game**! This is a classic arcade-style game where
 
 ## 🖼️ Screenshots
 
-![Gameplay Screenshot 1](screenshots/gameplay1.png)
+![Gameplay Screenshot 1](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/fire-arm.jpg)
+![Gameplay Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/enemy-fire.jpg)
+![Gameplay Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/dule-space-craft-attack.jpg)
 *Gameplay in action*
 
-![Gameplay Screenshot 2](screenshots/gameplay2.png)
+![Buffer Screenshot 1](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-life.jpg)
+![Buffer Screenshot 2](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-shield.jpg)
+![Buffer Screenshot 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/buffer-speed.jpg)
 *Collecting power-ups*
+
+![Game End 3](https://github.com/Navin82005/TempRepo/blob/main/SpaceShooter/game-end.jpg)
+*Game End*
 
 ## 📜 License
 
