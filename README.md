@@ -15,13 +15,27 @@ Welcome to the Space Shooter Game! This is a classic arcade-style game where you
 - Pygame
 
 ## File Structure
- - SpaceShooter.py: Main game logic and loop.
- - buffermodule.py: Contains helper classes to buffer images for power-ups.
- - config.py: Handles loading and saving of high scores.
- - images/: Directory for image assets (spaceship, enemies, background, etc.).
- - sounds/: Directory for sound assets (bullet fire, explosion, power-ups, etc.).
+
+- **main.py:** Main game logic and loop.
+- **buffermodule.py:** Contains helper classes for power-ups.
+- **config.py:** Handles loading and saving of high scores.
+- **images/**: Directory for image assets (spaceship, enemies, background, etc.).
+- **sounds/**: Directory for sound assets (bullet fire, explosion, power-ups, etc.).
 
 ## Gameplay Instructions
- + Movement: Use the arrow keys (UP, DOWN, LEFT, RIGHT) to move the spaceship.
- + Shooting: Press the spacebar to shoot bullets.
- + Power-ups: Collect power-ups to gain special abilities or extra lives.
+
+- **Movement:** Use the arrow keys (UP, DOWN, LEFT, RIGHT) to move the spaceship.
+- **Shooting:** Press the spacebar to shoot bullets.
+- **Power-ups:** Collect power-ups to gain special abilities or extra lives.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Feedback
+
+We welcome your feedback! Please feel free to open issues or submit pull requests on our GitHub repository to improve the game. You can also contact us via email at your-email@example.com.
+
+---
+
+Enjoy the game!
