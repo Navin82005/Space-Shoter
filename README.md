@@ -28,6 +28,14 @@ Welcome to the **Space Shooter Game**! This is a classic arcade-style game where
 - **Shooting:** Press the spacebar to shoot bullets.
 - **Power-ups:** Collect power-ups to gain special abilities or extra lives.
 
+## 🖼️ Screenshots
+
+![Gameplay Screenshot 1](screenshots/gameplay1.png)
+*Gameplay in action*
+
+![Gameplay Screenshot 2](screenshots/gameplay2.png)
+*Collecting power-ups*
+
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](License.txt) file for details.
