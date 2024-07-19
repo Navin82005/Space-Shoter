@@ -48,3 +48,7 @@ I welcome your feedback! You can contact me via email at navin82005@gmail.com.
 ---
 
 Enjoy the game! 🎉
+---
+
+Get your own color pallate at : [Coolors.Co](https://coolors.co/?ref=6559c82241a7a6000bf5e09a)
+
