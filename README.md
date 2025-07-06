@@ -2,7 +2,7 @@
 
 Welcome to the **Space Shooter Game**! This is a classic arcade-style game where you control a spaceship to shoot down enemies and avoid obstacles. The game is built using Python and Pygame.
 
-[(Thumbnail)https://github.com/Navin82005/Space-Shoter/blob/main/space-shooter-thumbnail.jpeg]
+![Thumbnail](https://github.com/Navin82005/Space-Shoter/blob/main/space-shooter-thumbnail.jpeg)
 
 ## Features
 
